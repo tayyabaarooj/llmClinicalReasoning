@@ -22,3 +22,6 @@ Use LLMs to reason over MIMIC-III/IV clinical notes, mimicking physician-style r
 Since MIMIC-III/IV dataset is huge, so we will be using the small version of it provided by Indiana University.
 Avaliable on kaggle: https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university/data
 
+## 🧠 Principal Investigator
+
+This project was conducted under the supervision of **Dr. Tehseen Zia**, Associate Professor at COMSATS University.  
